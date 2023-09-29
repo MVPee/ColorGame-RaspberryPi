@@ -6,7 +6,7 @@ This is a simple implementation of the classic Simon game with a web interface u
 *Before setting up the Simon game on your Raspberry Pi 3B+, make sure you have the following components and software installed:*
 
 + Raspberry Pi 3B+ or newer.
-+ Four colored buttons (e.g., red, green, blue, and yellow).
++ Five colored buttons
 + LEDs corresponding to each button color.
 + Python 3.x installed on your Raspberry Pi.
 + Flask framework installed.
